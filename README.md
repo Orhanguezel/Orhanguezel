@@ -6,7 +6,7 @@ I'm **Orhan Güzel**, a passionate web developer with a background in engineerin
 - 🌱 **Eager to learn new technologies and improve existing ones.**
 - 🎓 **Lifelong learner committed to personal and professional growth.**
 
-You can reach out to me through [LinkedIn](https://www.linkedin.com/in/orhan-güzel-53b47b11a) or check out my [portfolio](https://orhanguezel.github.io/personal/).
+You can reach out to me through [LinkedIn](https://www.linkedin.com/in/orhan-güzel-53b47b11a) or check out my [portfolio](https://guezelwebdesign.com/).
 
 Looking forward to connecting with like-minded professionals and contributing to exciting projects!# 🚀 My Technology Stack and Skills:
 
