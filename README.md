@@ -39,9 +39,6 @@ Looking forward to connecting with like-minded professionals and contributing to
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
   </a>
-  <a href="https://mui.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material-UI" />
-  </a>
 </p>
 
 ### Backend:
@@ -71,30 +68,16 @@ Looking forward to connecting with like-minded professionals and contributing to
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
   </a>
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" width="36" height="36" alt="Vercel" />
+  <a href="https://pm2.keymetrics.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/pm2-icon.svg" width="36" height="36" alt="PM2" />
   </a>
- 
 </p>
 
-
-
----
-
-### **Database Management:**
-- **Relational Databases**: MySQL
-- **NoSQL Databases**: MongoDB
-- **Database Operations**: Schema Design, Query Optimization, Backup & Restore
-
-### **Other Skills and Tools:**
-- **CI/CD Tools**: GitHub Actions
-- **Code Testing**: Jest, Postman
-- **API Development**: REST, GraphQL
-- **SEO Optimization**: Meta Tags, Lighthouse
-- **Linux Server Management**: SSH, Firewall Configuration, Hosting Setup
-- **CMS Management**: WordPress
-- **Web Servers**: Nginx, Apache
-
+- **Process management and optimization with PM2**
+- **Containerized solutions with Docker**
+- **Version control and CI/CD with Git & GitHub**
+- **Production server setup with Nginx + PM2**
+- **Frontend deployment with Vercel**
 
 ---
 
