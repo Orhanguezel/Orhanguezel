@@ -1,22 +1,47 @@
 # Hi there! 👋
 
-I'm **Orhan Güzel**, a passionate web developer with a background in engineering. My journey in tech started with my engineering degree and continued as a military engineer in the Turkish Air Force for 12 years. Since moving to Germany in 2022, I've been focusing on web development, constantly learning and growing my skills in this dynamic field.
+I'm **Orhan Güzel** — a Full-Stack Web Developer focused on **SaaS**, **E-Commerce** and **modular, multi-tenant architectures**.
 
-- 💻 **Currently enhancing my skills in web development.**
-- 🌐 **Languages and tools:** HTML, CSS, JavaScript, Bootstrap, Sass, Express, TypeScript, React, Node.js, and more.
-- 🚀 **Always open to collaborating on interesting projects.**
-- 🌱 **Eager to learn new technologies and improve existing ones.**
-- 🎓 **Lifelong learner committed to personal and professional growth.**
+- 🔭 **Current focus:** Building scalable apps with **Next.js (React)** + **Node.js/TypeScript** on **MongoDB**
+- 🧩 Creator of **MetaHub** — a multi-tenant, multi-project SaaS framework (one backend & one frontend serving multiple domains/tenants)
+- 🛠 I enjoy clean code, reusable modules, CI/CD automation and real-time features
+- 🇩🇪 Based in **Grevenbroich, Germany** — open to **Remote/Hybrid** roles
 
-You can reach out to me through [LinkedIn](https://www.linkedin.com/in/orhan-güzel-53b47b11a) or check out my [portfolio](https://guezelwebdesign.com/).
-
-Looking forward to connecting with like-minded professionals and contributing to exciting projects!
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Full--Stack%20%7C%20Node.js%20%7C%20Next.js-brightgreen?style=flat-square)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-guezelwebdesign.com-1f6feb?style=flat-square)](https://guezelwebdesign.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Orhan%20G%C3%BCzel-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orhan-güzel-53b47b11a)
+[![GitHub](https://img.shields.io/badge/GitHub-orhanguezel-181717?style=flat-square&logo=github)](https://github.com/Orhanguezel)
+[![Email](https://img.shields.io/badge/Email-orhanguzell%40gmail.com-dd4b39?style=flat-square)](mailto:orhanguzell@gmail.com)
 
 ---
 
-## 🚀 My Technology Stack and Skills:
+## 🚀 Featured Projects
 
-### Frontend:
+**MetaHub – Modular SaaS & Multi-Project System (2025)**  
+Multi-tenant framework with central Admin Panel, i18n (DE/TR/EN/FR/ES/PL), dynamic theming, real-time modules and CI/CD.  
+`Next.js` `TypeScript` `Node.js` `Express` `MongoDB` `Styled-Components` `WebSockets` `PM2` `Nginx`  
+🔗 Frontend: https://github.com/Orhanguezel/metahub-frontend  
+🔗 Backend:  https://github.com/Orhanguezel/metahub-backend
+
+**Ensotek – B2B Platform for Cooling Tower Solutions (2025)**  
+Built on MetaHub with per-tenant domain/language/theme; offers, catalogs, customer & doc management; secure data & fast provisioning.  
+`Next.js` `TypeScript` `MongoDB` `GDPR` `CI/CD`  
+🌐 Live: https://www.ensotek.de
+
+**Portfolio Website (2025)**  
+Projects + blog + interactive chatbot — powered by MetaHub.  
+`Next.js` `TypeScript` `Styled-Components`  
+🌐 Live: https://www.guezelwebdesign.com
+
+<!-- Optional: Repo pins -->
+[![MetaHub FE](https://github-readme-stats.vercel.app/api/pin/?username=orhanguezel&repo=metahub-frontend&theme=radical)](https://github.com/Orhanguezel/metahub-frontend)
+[![MetaHub BE](https://github-readme-stats.vercel.app/api/pin/?username=orhanguezel&repo=metahub-backend&theme=radical)](https://github.com/Orhanguezel/metahub-backend)
+
+---
+
+## 🧩 Tech Stack & Skills
+
+### Frontend
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
@@ -33,9 +58,6 @@ Looking forward to connecting with like-minded professionals and contributing to
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="Next.js">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" />
   </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer" title="React Native">
-    <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="36" height="36" alt="React Native" />
-  </a>
   <a href="https://styled-components.com/" target="_blank" rel="noreferrer" title="Styled Components">
     <img src="https://www.styled-components.com/atom.png" width="36" height="36" alt="Styled Components" />
   </a>
@@ -50,7 +72,7 @@ Looking forward to connecting with like-minded professionals and contributing to
   </a>
 </p>
 
-### Backend:
+### Backend
 <p align="left">
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer" title="Node.js">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" />
@@ -66,7 +88,7 @@ Looking forward to connecting with like-minded professionals and contributing to
   </a>
 </p>
 
-### DevOps & Tools:
+### DevOps & Tools
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
@@ -86,41 +108,46 @@ Looking forward to connecting with like-minded professionals and contributing to
   <a href="https://render.com/" target="_blank" rel="noreferrer" title="Render">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" />
   </a>
-  <a href="https://www.svgrepo.com/show/345885/git-repository.svg" target="_blank" rel="noreferrer" title="GitHub Projects">
-    <img src="https://www.svgrepo.com/show/345885/git-repository.svg" width="36" height="36" alt="GitHub Projects" />
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer" title="Vercel">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/vercel.svg" width="36" height="36" alt="Vercel" />
   </a>
 </p>
 
-### Additional Skills:
-- **Process management and optimization with PM2**
-- **Containerized solutions with Docker**
-- **Version control and CI/CD with Git & GitHub**
-- **Production server setup with Nginx + PM2**
-- **Frontend deployment with Vercel & Render**
-- **API testing with Postman**
-- **Project management with GitHub Projects**
-
+### Additional Skills
+- Process management & optimization with **PM2**
+- Containerized solutions with **Docker**
+- Version control & CI/CD with **Git & GitHub Actions**
+- Production setup with **Nginx + PM2**
+- Frontend deployment with **Vercel/Render**
+- API testing with **Postman**
+- Project management with **GitHub Projects**
 
 ---
 
-## 📈 GitHub Stats:
+## 📈 GitHub Stats
 
-![Orhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=orhanguezel&show_icons=true&theme=radical)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=orhanguezel&theme=dark)](https://git.io/streak-stats)  
+![Orhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=orhanguezel&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=orhanguezel&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orhanguezel&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-## 🏆 GitHub Profile Trophy:
+## 🧾 Profile Summary (Trophy Alternative)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=orhanguezel&theme=darkhub&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)  
+
+**Profile Summary Card**  
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=orhanguezel&theme=github_dark)
+
+**Activity Graph**  
+[![Orhan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=orhanguezel&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-## 🌐 Socials:
+## 🌐 Socials
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Orhanguezel)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Orhanguezel)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orhan-güzel-53b47b11a)
+[![Portfolio](https://img.shields.io/badge/Portfolio-guezelwebdesign.com-1f6feb?style=flat-square)](https://guezelwebdesign.com/)
 
 ---
 
