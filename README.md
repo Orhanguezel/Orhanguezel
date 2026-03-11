@@ -1,9 +1,9 @@
 # Hi there! 👋
 
-I'm **Orhan Güzel** — a Full-Stack Developer building production-ready **SaaS platforms**, **E-Commerce systems** and **multi-tenant architectures**.
+I'm **Orhan Güzel** — a Full-Stack Developer building production-ready **platforms**, **E-Commerce systems** and **operational web applications**.
 
 - 🚀 **Current focus:** Next.js · Laravel · Fastify · Flutter — from API to mobile
-- 🏢 **Main projects:** **QuickEcommerce** (multi-tenant e-commerce) · **Ensotek** (B2B SaaS, live at ensotek.de)
+- 🏢 **Main projects:** **QuickEcommerce** (enterprise e-commerce) · **Ensotek** (B2B platform, live at ensotek.de)
 - 🛠 Passionate about clean architecture, scalable backends, advanced state management and modern UI
 - 🇩🇪 Based in **Grevenbroich, Germany** — open to **Remote / Hybrid** roles
 
@@ -17,13 +17,13 @@ I'm **Orhan Güzel** — a Full-Stack Developer building production-ready **SaaS
 
 ## 🚀 Featured Projects
 
-### ⭐ QuickEcommerce – Enterprise Multi-Tenant E-Commerce Platform
-Full-stack e-commerce solution serving multiple businesses with dedicated admin panels, customer web and mobile apps.
+### ⭐ QuickEcommerce – Enterprise E-Commerce Platform
+Full-stack e-commerce solution with Laravel backend, dedicated admin panel, customer web, Flutter mobile app and marketplace-style store workflows.
 
 **Tech Stack:** Laravel 12 · PHP 8.2 · Next.js 16 · React 19 · TypeScript · Flutter · MySQL · Redux Toolkit · React Query · Zustand · Shadcn UI · Tailwind CSS · JWT · i18n
 
 **Highlights:**
-- Multi-tenant architecture with tenant isolation
+- Store and seller management across shared commerce flows
 - Admin panel + customer web + Flutter mobile (iOS/Android)
 - Token refresh mechanism & secure JWT authentication
 - Multi-language support (TR/EN)
@@ -34,7 +34,7 @@ Full-stack e-commerce solution serving multiple businesses with dedicated admin 
 ---
 
 ### 🏢 Ensotek – B2B Platform for Cooling Tower Solutions
-Multi-tenant B2B SaaS with per-tenant domain, language and theme support; catalogs, customer & document management; GDPR compliant.
+B2B platform with multilingual frontend variants, shared packages, catalog management, customer document flows and Fastify backend.
 
 **Tech Stack:** Next.js · TypeScript · Fastify · Drizzle ORM · MySQL · Bun · Zod · Cloudinary · Tailwind CSS · Radix UI · Swagger · i18n (TR/EN/DE) · Docker · Nginx · CI/CD
 
@@ -69,8 +69,8 @@ Multi-language recipe discovery & sharing platform with Groq LLM integration for
 |---------|----------|-----------------|
 | **Kamanilan** | Real Estate Platform | Next.js · Fastify · MySQL · Iyzipay · Framer Motion · i18n |
 | **Kaman Social** | Social Platform | Fastify · Drizzle ORM · MySQL · node-cron · Next.js monorepo |
-| **Products Park** | Product Management | React · Shadcn UI · dnd-kit · Fastify · Stripe · MySQL |
-| **Mezar Tasi** | E-Commerce | React · Vite · Shadcn UI · Fastify · MySQL · [mezarisim.com](https://mezarisim.com) |
+| **Products Park** | Commerce Platform | React · Shadcn UI · dnd-kit · Fastify · Stripe · MySQL |
+| **Mezar Tasi** | Service Platform | React · Vite · Shadcn UI · Fastify · MySQL · [mezarisim.com](https://mezarisim.com) |
 | **GZL Temizlik** | Service Platform | Next.js · Redux Toolkit · Fastify · MySQL · Cloudinary |
 | **PaketJet** | Logistics Platform | Next.js · Fastify · MySQL · Drizzle ORM |
 
@@ -178,7 +178,7 @@ Multi-language recipe discovery & sharing platform with Groq LLM integration for
 - Fastify · Laravel · Express.js — REST API design
 - Drizzle ORM · Eloquent · Mongoose — ORM/ODM layers
 - JWT · bcrypt · Google OAuth — secure authentication
-- Multi-tenancy · API versioning · Swagger docs
+- Store and seller workflows · API versioning · Swagger docs
 
 **DevOps & Deployment**
 - Docker · Nginx · PM2 — containerization & process management
