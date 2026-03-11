@@ -1,0 +1,6 @@
+# Career folder - kişisel belgeler, GitHub'a gitmez
+career/
+
+# OS files
+.DS_Store
+Thumbs.db
