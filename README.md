@@ -1,14 +1,13 @@
 # Hi there! 👋
 
-I'm **Orhan Güzel** — a Full-Stack Developer specializing in **E-Commerce**, **SaaS** and **multi-tenant architectures**.
+I'm **Orhan Güzel** — a Full-Stack Developer building production-ready **SaaS platforms**, **E-Commerce systems** and **multi-tenant architectures**.
 
-- 🚀 **Current focus:** Building production-ready e-commerce platforms with **Laravel** + **Next.js** + **Flutter**
-- 🏢 **Main Project:** **QuickEcommerce** — Enterprise multi-tenant e-commerce platform serving multiple businesses
-- 🧩 Creator of **MetaHub** — Multi-tenant SaaS framework with modular architecture
-- 🛠 Passionate about clean architecture, scalable systems, state management (Redux Toolkit, React Query, Zustand) and modern UI (Shadcn, Tailwind)
-- 🇩🇪 Based in **Grevenbroich, Germany** — open to **Remote/Hybrid** roles
+- 🚀 **Current focus:** Next.js · Laravel · Fastify · Flutter — from API to mobile
+- 🏢 **Main projects:** **QuickEcommerce** (multi-tenant e-commerce) · **Ensotek** (B2B SaaS, live at ensotek.de)
+- 🛠 Passionate about clean architecture, scalable backends, advanced state management and modern UI
+- 🇩🇪 Based in **Grevenbroich, Germany** — open to **Remote / Hybrid** roles
 
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Full--Stack%20%7C%20Laravel%20%7C%20Next.js%20%7C%20React-brightgreen?style=flat-square)](#)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Full--Stack%20%7C%20Next.js%20%7C%20Laravel%20%7C%20Fastify-brightgreen?style=flat-square)](#)
 [![Portfolio](https://img.shields.io/badge/Portfolio-guezelwebdesign.com-1f6feb?style=flat-square)](https://guezelwebdesign.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Orhan%20G%C3%BCzel-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orhan-güzel-53b47b11a)
 [![GitHub](https://img.shields.io/badge/GitHub-Orhanguezel-181717?style=flat-square&logo=github)](https://github.com/Orhanguezel)
@@ -18,71 +17,77 @@ I'm **Orhan Güzel** — a Full-Stack Developer specializing in **E-Commerce**, 
 
 ## 🚀 Featured Projects
 
-### ⭐ QuickEcommerce – Enterprise Multi-Tenant E-Commerce Platform (2025-Present)
+### ⭐ QuickEcommerce – Enterprise Multi-Tenant E-Commerce Platform
 Full-stack e-commerce solution serving multiple businesses with dedicated admin panels, customer web and mobile apps.
 
-**Tech Stack:**
-- **Backend:** Laravel 12 + PHP 8.2 (RESTful API, JWT Auth, Multi-tenancy)
-- **Admin Panel:** Next.js 16 + React 19 + TypeScript (Redux Toolkit, React Query, Zustand, Shadcn UI, Tailwind)
-- **Customer Web:** Next.js 16 App Router (next-intl i18n, SSR/SEO optimized)
-- **Mobile:** Flutter (iOS/Android)
+**Tech Stack:** Laravel 12 · PHP 8.2 · Next.js 16 · React 19 · TypeScript · Flutter · MySQL · Redux Toolkit · React Query · Zustand · Shadcn UI · Tailwind CSS · JWT · i18n
 
-**Features:**
+**Highlights:**
 - Multi-tenant architecture with tenant isolation
-- Advanced state management (Redux Toolkit + React Query + Zustand)
-- Real-time inventory & order management
+- Admin panel + customer web + Flutter mobile (iOS/Android)
+- Token refresh mechanism & secure JWT authentication
 - Multi-language support (TR/EN)
-- Modern UI with Shadcn components
-- Token refresh mechanism & secure authentication
 
 🌐 **Live:** https://sportoonline.com
 🔗 **Repo:** https://github.com/Orhanguezel/quickecommerce
 
 ---
 
-### 🧩 MetaHub – Modular SaaS & Multi-Project System (2025)
-Multi-tenant framework with central Admin Panel, i18n (DE/TR/EN/FR/ES/PL), dynamic theming, real-time modules and CI/CD.
-`Next.js` `TypeScript` `Node.js` `Express` `MongoDB` `Styled-Components` `WebSockets` `PM2` `Nginx`
-🔗 Frontend: https://github.com/Orhanguezel/metahub-frontend
-🔗 Backend:  https://github.com/Orhanguezel/metahub-backend
+### 🏢 Ensotek – B2B Platform for Cooling Tower Solutions
+Multi-tenant B2B SaaS with per-tenant domain, language and theme support; catalogs, customer & document management; GDPR compliant.
 
-### 🏢 Ensotek – B2B Platform for Cooling Tower Solutions (2025)
-Built on MetaHub with per-tenant domain/language/theme; offers, catalogs, customer & doc management; secure data & fast provisioning.
-`Next.js` `TypeScript` `MongoDB` `GDPR` `CI/CD`
-🌐 Live: https://www.ensotek.de
+**Tech Stack:** Next.js · TypeScript · Fastify · Drizzle ORM · MySQL · Bun · Zod · Cloudinary · Tailwind CSS · Radix UI · Swagger · i18n (TR/EN/DE) · Docker · Nginx · CI/CD
 
-### 💼 Portfolio Website (2025)
-Personal portfolio + blog + interactive chatbot — powered by MetaHub.
-`Next.js` `TypeScript` `Styled-Components`
-🌐 Live: https://www.guezelwebdesign.com
+🌐 **Live:** https://www.ensotek.de
 
 ---
 
-### 🔗 Other Notable Projects
-- **König Massage** - Massage salon website with booking system
-- **GZL Temizlik** - Cleaning company management platform
-- **Mezar Taşı** - Memorial stone e-commerce platform
-- **Hardware Store** - Electronics e-commerce solution
-- **Emlak** - Real estate listing platform
+### 💼 Konig Massage – Multi-Language Booking Platform
+Full-stack massage & wellness booking platform with customer site, admin panel, 3-language support and complete reservation system.
 
-<!-- Optional: Repo pins -->
-[![QuickEcommerce](https://github-readme-stats.vercel.app/api/pin/?username=orhanguezel&repo=quickecommerce&theme=radical)](https://github.com/Orhanguezel/quickecommerce)
-[![MetaHub FE](https://github-readme-stats.vercel.app/api/pin/?username=orhanguezel&repo=metahub-frontend&theme=radical)](https://github.com/Orhanguezel/metahub-frontend)
+**Tech Stack:** Next.js · React · TypeScript · Tailwind CSS · Fastify · Drizzle ORM · MySQL · Bun · Zod · Cloudinary · Nodemailer · JWT · React Query · Zustand
+
+---
+
+### ⚙️ Paspas ERP – Production Planning System
+Enterprise Resource Planning system for manufacturing operations with shift management, machine planning and reporting dashboard.
+
+**Tech Stack:** Bun · TypeScript · Fastify · Drizzle ORM · MySQL · Next.js · React · Redux Toolkit · React Query · Zod · Swagger
+
+---
+
+### 🤖 Tarifin Tarifi – AI-Powered Recipe Platform
+Multi-language recipe discovery & sharing platform with Groq LLM integration for AI-generated content and reCAPTCHA spam protection.
+
+**Tech Stack:** Next.js · TypeScript · Redux Toolkit · Styled Components · next-intl · Express · MongoDB · Mongoose · Cloudinary · Groq LLM · JWT · SEO
+
+---
+
+### 🔗 Other Projects
+
+| Project | Category | Tech Highlights |
+|---------|----------|-----------------|
+| **Kamanilan** | Real Estate Platform | Next.js · Fastify · MySQL · Iyzipay · Framer Motion · i18n |
+| **Kaman Social** | Social Platform | Fastify · Drizzle ORM · MySQL · node-cron · Next.js monorepo |
+| **Products Park** | Product Management | React · Shadcn UI · dnd-kit · Fastify · Stripe · MySQL |
+| **Mezar Tasi** | E-Commerce | React · Vite · Shadcn UI · Fastify · MySQL · [mezarisim.com](https://mezarisim.com) |
+| **GZL Temizlik** | Service Platform | Next.js · Redux Toolkit · Fastify · MySQL · Cloudinary |
+| **PaketJet** | Logistics Platform | Next.js · Fastify · MySQL · Drizzle ORM |
 
 ---
 
 ## 🧩 Tech Stack & Skills
 
-### Languages & Core Technologies
+### Languages & Runtimes
 <p align="left">
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer" title="PHP">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
-  </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+  </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer" title="PHP">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
   </a>
   <a href="https://dart.dev/" target="_blank" rel="noreferrer" title="Dart">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" />
@@ -91,13 +96,13 @@ Personal portfolio + blog + interactive chatbot — powered by MetaHub.
 
 ### Frontend & Mobile
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-  </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="Next.js">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" />
   </a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer" title="Redux">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+  </a>
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer" title="Redux Toolkit">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" />
   </a>
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer" title="Flutter">
@@ -105,9 +110,6 @@ Personal portfolio + blog + interactive chatbot — powered by MetaHub.
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="Tailwind CSS">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" />
-  </a>
-  <a href="https://styled-components.com/" target="_blank" rel="noreferrer" title="Styled Components">
-    <img src="https://www.styled-components.com/atom.png" width="36" height="36" alt="Styled Components" />
   </a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer" title="SASS">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="SASS" />
@@ -124,6 +126,9 @@ Personal portfolio + blog + interactive chatbot — powered by MetaHub.
 <p align="left">
   <a href="https://laravel.com/" target="_blank" rel="noreferrer" title="Laravel">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" />
+  </a>
+  <a href="https://fastify.dev/" target="_blank" rel="noreferrer" title="Fastify">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastify-colored.svg" width="36" height="36" alt="Fastify" />
   </a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer" title="Node.js">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" />
@@ -144,9 +149,6 @@ Personal portfolio + blog + interactive chatbot — powered by MetaHub.
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
   </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer" title="GitHub">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="36" height="36" alt="GitHub" />
-  </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
   </a>
@@ -156,53 +158,33 @@ Personal portfolio + blog + interactive chatbot — powered by MetaHub.
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer" title="Postman">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36" height="36" alt="Postman" />
   </a>
-  <a href="https://render.com/" target="_blank" rel="noreferrer" title="Render">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" />
-  </a>
   <a href="https://vercel.com/" target="_blank" rel="noreferrer" title="Vercel">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/vercel.svg" width="36" height="36" alt="Vercel" />
   </a>
+  <a href="https://render.com/" target="_blank" rel="noreferrer" title="Render">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" />
+  </a>
 </p>
 
-### State Management & Architecture
-- **Redux Toolkit** - Global state management
-- **React Query (TanStack Query)** - Server state & caching
-- **Zustand** - Lightweight state management
-- **Context API** - React context patterns
-- **Module pattern** - Service/Action/Type/Schema architecture
+### Core Competencies
 
-### UI Libraries & Design Systems
-- **Shadcn UI** - Radix-based component library
-- **Radix UI** - Accessible primitives
-- **Tailwind CSS** - Utility-first styling
-- **React Hook Form** - Form management
-- **Zod** - Schema validation
+**Frontend Architecture**
+- Redux Toolkit · React Query (TanStack) · Zustand — advanced state management
+- Shadcn UI · Radix UI · Tailwind CSS · Framer Motion — modern UI systems
+- React Hook Form · Zod — type-safe form validation
+- next-intl · i18n — multi-language SSR/SSG
 
-### Backend & API Development
-- **Laravel** - REST API, JWT Auth, Eloquent ORM
-- **Node.js + Express** - RESTful services
-- **Multi-tenancy** - Tenant isolation patterns
-- **Token refresh mechanism** - Secure authentication flows
-- **API versioning** - /api/v1 structure
+**Backend & API**
+- Fastify · Laravel · Express.js — REST API design
+- Drizzle ORM · Eloquent · Mongoose — ORM/ODM layers
+- JWT · bcrypt · Google OAuth — secure authentication
+- Multi-tenancy · API versioning · Swagger docs
 
-### DevOps & Deployment
-- **Docker** - Containerization
-- **PM2** - Process management
-- **Nginx** - Reverse proxy & load balancing
-- **GitHub Actions** - CI/CD pipelines
-- **Vercel/Render** - Frontend deployment
-- **Git** - Version control & branching strategies
-
-### Internationalization & SEO
-- **next-intl** - Next.js internationalization
-- **i18n** - Multi-language support (TR/EN/DE)
-- **SSR/SSG** - Server-side rendering & static generation
-- **SEO optimization** - Meta tags, sitemaps, structured data
-
-### Testing & Quality
-- **Postman** - API testing
-- **React Testing Library** - Component testing
-- **GitHub Projects** - Agile project management
+**DevOps & Deployment**
+- Docker · Nginx · PM2 — containerization & process management
+- GitHub Actions — CI/CD pipelines
+- Vercel · Render — frontend/backend hosting
+- VPS management · reverse proxy configuration
 
 ---
 
@@ -214,13 +196,12 @@ Personal portfolio + blog + interactive chatbot — powered by MetaHub.
 
 ---
 
-## 🧾 Profile Summary (Trophy Alternative)
+## 🧾 Profile Summary
 
-
-**Profile Summary Card**  
+**Profile Summary Card**
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=orhanguezel&theme=github_dark)
 
-**Activity Graph**  
+**Activity Graph**
 [![Orhan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=orhanguezel&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
@@ -233,4 +214,4 @@ Personal portfolio + blog + interactive chatbot — powered by MetaHub.
 
 ---
 
-🌟 Let's create something amazing together! 🌟
+🌟 Let's build something great together!
