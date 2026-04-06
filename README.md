@@ -1,17 +1,36 @@
 # Hi there! 👋
 
-I'm **Orhan Güzel** — a Full-Stack Developer building production-ready **platforms**, **E-Commerce systems** and **operational web applications**.
+I'm **Orhan Güzel** — a Full-Stack Developer building production-ready **platforms**, **E-Commerce systems** and **digital ecosystems** for agriculture & industry.
 
-- 🚀 **Current focus:** Next.js · Laravel · Fastify · Flutter — from API to mobile
-- 🏢 **Main projects:** **QuickEcommerce** (enterprise e-commerce) · **Ensotek** (B2B platform, live at ensotek.de)
+- 🌱 **Current focus:** Building Turkey's most comprehensive **Agricultural Digital Ecosystem** — from seed catalog to AI-powered farming tools
+- 🏢 **Main projects:** **Tarım Dijital Ekosistem** (AgriTech platform suite) · **QuickEcommerce** (enterprise e-commerce) · **Ensotek** (B2B platform, live at ensotek.de)
 - 🛠 Passionate about clean architecture, scalable backends, advanced state management and modern UI
 - 🇩🇪 Based in **Grevenbroich, Germany** — open to **Remote / Hybrid** roles
 
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Full--Stack%20%7C%20Next.js%20%7C%20Laravel%20%7C%20Fastify-brightgreen?style=flat-square)](#)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Full--Stack%20%7C%20Next.js%20%7C%20Fastify%20%7C%20Laravel-brightgreen?style=flat-square)](#)
 [![Portfolio](https://img.shields.io/badge/Portfolio-guezelwebdesign.com-1f6feb?style=flat-square)](https://guezelwebdesign.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Orhan%20G%C3%BCzel-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orhan-güzel-53b47b11a)
 [![GitHub](https://img.shields.io/badge/GitHub-Orhanguezel-181717?style=flat-square&logo=github)](https://github.com/Orhanguezel)
 [![Email](https://img.shields.io/badge/Email-orhanguzell%40gmail.com-dd4b39?style=flat-square)](mailto:orhanguzell@gmail.com)
+
+---
+
+## 🌱 Tarım Dijital Ekosistem — AgriTech Platform Suite
+
+A 5-layer digital ecosystem transforming Turkey's agricultural sector — from content & visibility to AI-powered decision support.
+
+**Architecture:** Monorepo with shared backend packages, SaaS-ready multi-tenant structure
+
+**Tech Stack:** Next.js 16 · TypeScript · Fastify · Drizzle ORM · MySQL · Bun · Tailwind CSS v4 · React Query · Zustand · Groq/OpenAI · Docker · Nginx
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| **Bereket Fide** | Corporate seedling hub — product catalog, offer system, multilingual | 🟢 Live — [bereketfide.com](https://bereketfide.com) |
+| **VistaSeed** | Seed hub — dealer management, order system, B2B workflows | 🟡 Preparing for launch |
+| **KatalogAI** | AI-powered catalog & report engine | 🟢 Live |
+| **TarGO** | Agricultural education prototype — quiz engine, learning paths | 🔵 Prototype |
+
+**Ecosystem Roadmap:** Ziraat Haber Portali (news) · Hal Fiyatlari (market prices) · Tarım Ansiklopedisi (encyclopedia) · Sera Yönetim Yazılımı (greenhouse SaaS) · B2B Tohum/Fide Pazaryeri (marketplace) · IoT Sensor Integration · AI Disease Detection · Yield Prediction Engine
 
 ---
 
@@ -42,6 +61,30 @@ B2B platform with multilingual frontend variants, shared packages, catalog manag
 
 ---
 
+### 🔬 Karbonkompozit – Corporate Carbon Fiber Platform
+Corporate website for MOE Kompozit brand (Ensotek sub-brand) — product catalog, gallery, blog, offer/contact system with token-based theme architecture and full technical SEO.
+
+**Tech Stack:** Next.js 16 · TypeScript · Tailwind CSS v4 · next-intl (TR/EN) · React Query · Zustand · Zod · React Hook Form · Radix UI · Embla Carousel
+
+**Highlights:**
+- Token-first theme system (moe-carbon-industrial)
+- Full SEO pipeline: canonical, hreflang, JSON-LD, sitemap, monitoring
+- Product catalog, gallery, blog with multilingual content
+- Shared backend via Ensotek monorepo
+
+🌐 **Domain:** karbonkompozit.com.tr
+
+---
+
+### 🏗️ Vista İnşaat – Construction Company Platform
+Corporate website and content management system for a construction company with admin panel and project showcase.
+
+**Tech Stack:** Next.js 16 · TypeScript · Tailwind CSS v4 · Fastify · Drizzle ORM · MySQL · React Admin Panel
+
+🌐 **Live:** https://www.vistainsaat.com
+
+---
+
 ### 💼 Konig Massage – Multi-Language Booking Platform
 Full-stack massage & wellness booking platform with customer site, admin panel, 3-language support and complete reservation system.
 
@@ -56,21 +99,12 @@ Enterprise Resource Planning system for manufacturing operations with shift mana
 
 ---
 
-### 🤖 Tarifin Tarifi – AI-Powered Recipe Platform
-Multi-language recipe discovery & sharing platform with Groq LLM integration for AI-generated content and reCAPTCHA spam protection.
-
-**Tech Stack:** Next.js · TypeScript · Redux Toolkit · Styled Components · next-intl · Express · MongoDB · Mongoose · Cloudinary · Groq LLM · JWT · SEO
-
----
-
-### 🔗 Other Projects
+## 🔗 Other Projects
 
 | Project | Category | Tech Highlights |
 |---------|----------|-----------------|
 | **Kamanilan** | Real Estate Platform | Next.js · Fastify · MySQL · Iyzipay · Framer Motion · i18n |
 | **Kaman Social** | Social Platform | Fastify · Drizzle ORM · MySQL · node-cron · Next.js monorepo |
-| **Products Park** | Commerce Platform | React · Shadcn UI · dnd-kit · Fastify · Stripe · MySQL |
-| **Mezar Tasi** | Service Platform | React · Vite · Shadcn UI · Fastify · MySQL · [mezarisim.com](https://mezarisim.com) |
 | **GZL Temizlik** | Service Platform | Next.js · Redux Toolkit · Fastify · MySQL · Cloudinary |
 | **PaketJet** | Logistics Platform | Next.js · Fastify · MySQL · Drizzle ORM |
 
@@ -128,7 +162,7 @@ Multi-language recipe discovery & sharing platform with Groq LLM integration for
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" />
   </a>
   <a href="https://fastify.dev/" target="_blank" rel="noreferrer" title="Fastify">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastify-colored.svg" width="36" height="36" alt="Fastify" />
+    <img src="https://www.vectorlogo.zone/logos/fastifyio/fastifyio-icon.svg" width="36" height="36" alt="Fastify" />
   </a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer" title="Node.js">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" />
@@ -159,10 +193,13 @@ Multi-language recipe discovery & sharing platform with Groq LLM integration for
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36" height="36" alt="Postman" />
   </a>
   <a href="https://vercel.com/" target="_blank" rel="noreferrer" title="Vercel">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/vercel.svg" width="36" height="36" alt="Vercel" />
+    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="36" height="36" alt="Vercel" />
   </a>
   <a href="https://render.com/" target="_blank" rel="noreferrer" title="Render">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" />
+  </a>
+  <a href="https://nginx.org/" target="_blank" rel="noreferrer" title="Nginx">
+    <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="36" height="36" alt="Nginx" />
   </a>
 </p>
 
@@ -190,9 +227,7 @@ Multi-language recipe discovery & sharing platform with Groq LLM integration for
 
 ## 📈 GitHub Stats
 
-![Orhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=orhanguezel&show_icons=true&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=orhanguezel&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orhanguezel&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
