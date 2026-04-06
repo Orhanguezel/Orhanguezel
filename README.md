@@ -26,7 +26,7 @@ A 5-layer digital ecosystem transforming Turkey's agricultural sector — from c
 | Project | Description | Status |
 |---------|-------------|--------|
 | **Bereket Fide** | Corporate seedling hub — product catalog, offer system, multilingual | 🟢 Live — [bereketfide.com](https://bereketfide.com) |
-| **VistaSeed** | Seed hub — dealer management, order system, B2B workflows | 🟡 Preparing for launch |
+| **VistaSeed** | Seed hub — dealer management, order system, B2B workflows | 🟢 Live — [vistaseed.com.tr](https://vistaseed.com.tr) |
 | **KatalogAI** | AI-powered catalog & report engine | 🟢 Live |
 | **TarGO** | Agricultural education prototype — quiz engine, learning paths | 🔵 Prototype |
 
@@ -72,7 +72,7 @@ Corporate website for MOE Kompozit brand (Ensotek sub-brand) — product catalog
 - Product catalog, gallery, blog with multilingual content
 - Shared backend via Ensotek monorepo
 
-🌐 **Domain:** karbonkompozit.com.tr
+🌐 **Live:** https://karbonkompozit.com.tr
 
 ---
 
@@ -90,6 +90,8 @@ Full-stack massage & wellness booking platform with customer site, admin panel, 
 
 **Tech Stack:** Next.js · React · TypeScript · Tailwind CSS · Fastify · Drizzle ORM · MySQL · Bun · Zod · Cloudinary · Nodemailer · JWT · React Query · Zustand
 
+🌐 **Live:** https://energetische-massage-bonn.de
+
 ---
 
 ### ⚙️ Paspas ERP – Production Planning System
@@ -101,12 +103,12 @@ Enterprise Resource Planning system for manufacturing operations with shift mana
 
 ## 🔗 Other Projects
 
-| Project | Category | Tech Highlights |
-|---------|----------|-----------------|
-| **Kamanilan** | Real Estate Platform | Next.js · Fastify · MySQL · Iyzipay · Framer Motion · i18n |
-| **Kaman Social** | Social Platform | Fastify · Drizzle ORM · MySQL · node-cron · Next.js monorepo |
-| **GZL Temizlik** | Service Platform | Next.js · Redux Toolkit · Fastify · MySQL · Cloudinary |
-| **PaketJet** | Logistics Platform | Next.js · Fastify · MySQL · Drizzle ORM |
+| Project | Category | Tech Highlights | Live |
+|---------|----------|-----------------|------|
+| **Kamanilan** | Real Estate Platform | Next.js · Fastify · MySQL · Iyzipay · Framer Motion · i18n | [kamanilan.com](https://www.kamanilan.com) |
+| **Kaman Social** | Social Platform | Fastify · Drizzle ORM · MySQL · node-cron · Next.js monorepo | — |
+| **GZL Temizlik** | Service Platform | Next.js · Redux Toolkit · Fastify · MySQL · Cloudinary | [gzltemizlik.com](https://gzltemizlik.com) |
+| **PaketJet** | Logistics Platform | Next.js · Fastify · MySQL · Drizzle ORM | [paketjet.com](https://paketjet.com) |
 
 ---
 
