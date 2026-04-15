@@ -33,8 +33,8 @@ A 5-layer digital ecosystem transforming Turkey's agricultural sector — from c
 | **Tarım Ansiklopedisi** | Digital agricultural encyclopedia — 100K+ SEO traffic target | 🟢 Live — [tarimansiklopedisi.com](https://tarimansiklopedisi.com) |
 | **Hal Fiyatlari** | Daily market (hal) price platform — trend analysis, REST API | 🟢 Live — [haldefiyat.com](https://haldefiyat.com) |
 | **Ekosistem Sosyal Medya** | Centralized social media manager — AI content, multi-platform scheduling | 🟢 Live — [sosial.tarvista.com](https://sosial.tarvista.com) |
-| **TarMinGO** | Agri quiz platform — 1669 questions, 14 subjects (Akdeniz Univ.) | 🟢 Live |
-| **KatalogAI** | AI-powered multi-database catalog creator — PDF export, email delivery | 🔵 Development |
+| **TarMinGO** | Agri quiz platform — 1669 questions, 14 subjects (Akdeniz Univ.) | 🟢 Live — [tarmingo.com](https://tarmingo.com) |
+| **KatalogAI** | AI-powered multi-database catalog creator — PDF export, email delivery | 🟢 Live — [thecatalogia.com](https://thecatalogia.com) |
 
 ### In Development / Planned
 
@@ -152,99 +152,23 @@ Enterprise Resource Planning system for manufacturing operations with shift mana
 | **GZL Temizlik** | Service Platform | Next.js · Redux Toolkit · Fastify · MySQL · Cloudinary | [gzltemizlik.com](https://gzltemizlik.com) |
 | **Kaman Social** | Social Media Management | Fastify · Drizzle ORM · MySQL · node-cron · Next.js monorepo | — |
 | **GeoSerra** | GEO SEO SaaS | Next.js 16 · Fastify · MySQL · Stripe · PayPal · Python · AI analysis | [geoserra.com](https://geoserra.com) |
-| **Shopo** | Multi-vendor Marketplace | Laravel 10 · Next.js 15 · Iyzico sub-merchant · OpenAI · Pusher | In development |
+| **Shopo** | Multi-vendor Marketplace | Laravel 10 · Next.js 15 · Iyzico sub-merchant · OpenAI · Pusher | [seyfibaba.com](https://seyfibaba.com) |
 
 ---
 
 ## 🧩 Tech Stack & Skills
 
 ### Languages & Runtimes
-<p align="left">
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-  </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer" title="PHP">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
-  </a>
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer" title="Dart">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" />
-  </a>
-</p>
+<p align="left"><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>&nbsp;<a href="https://www.php.net/" target="_blank" rel="noreferrer" title="PHP"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>&nbsp;<a href="https://dart.dev/" target="_blank" rel="noreferrer" title="Dart"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a></p>
 
 ### Frontend & Mobile
-<p align="left">
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="Next.js">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-  </a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer" title="Redux Toolkit">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" />
-  </a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer" title="Flutter">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="Tailwind CSS">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" />
-  </a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer" title="SASS">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="SASS" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" title="HTML5">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" title="CSS3">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-  </a>
-</p>
+<p align="left"><a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="Next.js"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" /></a>&nbsp;<a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>&nbsp;<a href="https://redux.js.org/" target="_blank" rel="noreferrer" title="Redux Toolkit"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>&nbsp;<a href="https://flutter.dev/" target="_blank" rel="noreferrer" title="Flutter"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>&nbsp;<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="Tailwind CSS"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" /></a>&nbsp;<a href="https://sass-lang.com/" target="_blank" rel="noreferrer" title="SASS"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="SASS" /></a>&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" title="HTML5"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" title="CSS3"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a></p>
 
 ### Backend & Databases
-<p align="left">
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer" title="Laravel">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" />
-  </a>
-  <a href="https://fastify.dev/" target="_blank" rel="noreferrer" title="Fastify">
-    <img src="https://www.vectorlogo.zone/logos/fastifyio/fastifyio-icon.svg" width="36" height="36" alt="Fastify" />
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer" title="Node.js">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer" title="Express">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
-  </a>
-</p>
+<p align="left"><a href="https://laravel.com/" target="_blank" rel="noreferrer" title="Laravel"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>&nbsp;<a href="https://fastify.dev/" target="_blank" rel="noreferrer" title="Fastify"><img src="https://www.vectorlogo.zone/logos/fastifyio/fastifyio-icon.svg" width="36" height="36" alt="Fastify" /></a>&nbsp;<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer" title="Node.js"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a>&nbsp;<a href="https://expressjs.com/" target="_blank" rel="noreferrer" title="Express"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>&nbsp;<a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>&nbsp;<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a></p>
 
 ### DevOps & Tools
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
-  </a>
-  <a href="https://pm2.keymetrics.io/" target="_blank" rel="noreferrer" title="PM2">
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/pm2-icon.svg" width="36" height="36" alt="PM2" />
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer" title="Postman">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36" height="36" alt="Postman" />
-  </a>
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer" title="Vercel">
-    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="36" height="36" alt="Vercel" />
-  </a>
-  <a href="https://nginx.org/" target="_blank" rel="noreferrer" title="Nginx">
-    <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="36" height="36" alt="Nginx" />
-  </a>
-</p>
+<p align="left"><a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>&nbsp;<a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>&nbsp;<a href="https://pm2.keymetrics.io/" target="_blank" rel="noreferrer" title="PM2"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/pm2-icon.svg" width="36" height="36" alt="PM2" /></a>&nbsp;<a href="https://www.postman.com/" target="_blank" rel="noreferrer" title="Postman"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36" height="36" alt="Postman" /></a>&nbsp;<a href="https://vercel.com/" target="_blank" rel="noreferrer" title="Vercel"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="36" height="36" alt="Vercel" /></a>&nbsp;<a href="https://nginx.org/" target="_blank" rel="noreferrer" title="Nginx"><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="36" height="36" alt="Nginx" /></a></p>
 
 ### Core Competencies
 
