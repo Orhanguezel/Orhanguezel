@@ -3,7 +3,7 @@
 I'm **Orhan Güzel** — a Full-Stack Developer building production-ready **platforms**, **E-Commerce systems** and **digital ecosystems** for agriculture & industry.
 
 - 🌱 **Current focus:** Building Turkey's most comprehensive **Agricultural Digital Ecosystem** — from seed catalog to AI-powered farming tools
-- 🏢 **Main projects:** **Tarım Dijital Ekosistem** (AgriTech platform suite) · **QuickEcommerce** (enterprise e-commerce) · **Ensotek** (B2B platform, live at ensotek.de)
+- 🏢 **Main projects:** **Tarım Dijital Ekosistem** (25+ AgriTech modules) · **QuickEcommerce** (enterprise e-commerce) · **Ensotek** (B2B platform, live at ensotek.de)
 - 🛠 Passionate about clean architecture, scalable backends, advanced state management and modern UI
 - 🇩🇪 Based in **Grevenbroich, Germany** — open to **Remote / Hybrid** roles
 
@@ -21,16 +21,38 @@ A 5-layer digital ecosystem transforming Turkey's agricultural sector — from c
 
 **Architecture:** Monorepo with shared backend packages, SaaS-ready multi-tenant structure
 
-**Tech Stack:** Next.js 16 · TypeScript · Fastify · Drizzle ORM · MySQL · Bun · Tailwind CSS v4 · React Query · Zustand · Groq/OpenAI · Docker · Nginx
+**Tech Stack:** Next.js 16 · TypeScript · Fastify · Drizzle ORM · MySQL · Bun · Tailwind CSS v4 · React Query · Zustand · Groq/OpenAI · Redis · BullMQ · Docker · Nginx
+
+### Live & Active
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| **Bereket Fide** | Corporate seedling hub — product catalog, offer system, multilingual | 🟢 Live — [bereketfide.com](https://bereketfide.com) |
-| **VistaSeed** | Seed hub — dealer management, order system, B2B workflows | 🟢 Live — [vistaseed.com.tr](https://vistaseed.com.tr) |
-| **KatalogAI** | AI-powered catalog & report engine | 🟢 Live |
-| **TarGO** | Agricultural education prototype — quiz engine, learning paths | 🔵 Prototype |
+| **Bereket Fide** | Corporate seedling hub — product catalog, multilingual, admin panel | 🟢 Live — [bereketfide.com.tr](https://www.bereketfide.com.tr) |
+| **VistaSeeds** | Seed brand corporate platform — product catalog, admin, SEO | 🟢 Live — [vistaseeds.com.tr](https://vistaseeds.com.tr) |
+| **Tarımda Bugün** | Agriculture news platform — RSS aggregation, newsletter, Telegram | 🟢 Live — [tarimdabugun.com](https://tarimdabugun.com) |
+| **Tarım Ansiklopedisi** | Digital agricultural encyclopedia — 100K+ SEO traffic target | 🟢 Live — [tarimansiklopedisi.com](https://tarimansiklopedisi.com) |
+| **Hal Fiyatlari** | Daily market (hal) price platform — trend analysis, REST API | 🟢 Live — [haldefiyat.com](https://haldefiyat.com) |
+| **Ekosistem Sosyal Medya** | Centralized social media manager — AI content, multi-platform scheduling | 🟢 Live — [sosial.tarvista.com](https://sosial.tarvista.com) |
+| **TarMinGO** | Agri quiz platform — 1669 questions, 14 subjects (Akdeniz Univ.) | 🟢 Live |
+| **KatalogAI** | AI-powered multi-database catalog creator — PDF export, email delivery | 🔵 Development |
 
-**Ecosystem Roadmap:** Ziraat Haber Portali (news) · Hal Fiyatlari (market prices) · Tarım Ansiklopedisi (encyclopedia) · Sera Yönetim Yazılımı (greenhouse SaaS) · B2B Tohum/Fide Pazaryeri (marketplace) · IoT Sensor Integration · AI Disease Detection · Yield Prediction Engine
+### In Development / Planned
+
+| Project | Description |
+|---------|-------------|
+| **Sera Yönetim Yazılımı** | Greenhouse SaaS — planting, harvest, irrigation, IoT integration |
+| **TarimIklim** | Climate & frost risk service — REST API for ecosystem modules |
+| **ZiraiBilgim** | Gamified agriculture education — courses, quiz, certificates, Iyzipay |
+| **Çiftçi Forumu** | Agricultural Q&A community forum |
+| **B2B Tohum/Fide Pazaryeri** | B2B seed and seedling marketplace |
+| **Danışmanlık Pazaryeri** | Agricultural expert consultation platform |
+| **Toplu Alım Platformu** | Group purchase platform for cooperatives |
+| **Verim Tahmini Motoru** | AI yield prediction & decision support |
+| **Hastalık Erken Uyarı** | AI plant disease detection & regional risk alerts |
+| **IoT Sensor Entegrasyonu** | Sensor data collection, threshold alarms, Telegram notifications |
+| **Stok ve Depo Yönetimi** | Warehouse & inventory management module |
+| **Maliyet ve Karlılık Analizi** | Financial P&L reporting module |
+| **Devlet Destekleri Takibi** | Agricultural grant & support program tracker |
 
 ---
 
@@ -46,9 +68,9 @@ Full-stack e-commerce solution with Laravel backend, dedicated admin panel, cust
 - Admin panel + customer web + Flutter mobile (iOS/Android)
 - Token refresh mechanism & secure JWT authentication
 - Multi-language support (TR/EN)
+- Stripe & Iyzipay payment integration
 
 🌐 **Live:** https://sportoonline.com
-🔗 **Repo:** https://github.com/Orhanguezel/quickecommerce
 
 ---
 
@@ -61,34 +83,55 @@ B2B platform with multilingual frontend variants, shared packages, catalog manag
 
 ---
 
+### 🚚 PaketJet – P2P Cargo Freight Marketplace
+BlaBlaCar-style freight logistics marketplace. Carriers post route & capacity listings, customers book cargo space. Built from zero to production in **2 weeks**.
+
+**Tech Stack:** Next.js 15 · React 19 · TypeScript · Fastify v5 · MySQL 8 · Drizzle ORM · Bun · Zod · Zustand · Tailwind CSS v4
+
+**Highlights:**
+- Carrier & customer dual dashboards
+- Real-time capacity management with visual capacity bar
+- Wallet & payment system with admin revenue stats
+- JWT cookie auth with role guards
+- Token-based dark mode design system
+
+🌐 **Live:** https://paketjet.com
+
+---
+
 ### 🔬 Karbonkompozit – Corporate Carbon Fiber Platform
-Corporate website for MOE Kompozit brand (Ensotek sub-brand) — product catalog, gallery, blog, offer/contact system with token-based theme architecture and full technical SEO.
+Corporate website for MOE Kompozit brand — product catalog, gallery, blog, offer/contact system with token-based theme architecture and full technical SEO.
 
 **Tech Stack:** Next.js 16 · TypeScript · Tailwind CSS v4 · next-intl (TR/EN) · React Query · Zustand · Zod · React Hook Form · Radix UI · Embla Carousel
 
 **Highlights:**
 - Token-first theme system (moe-carbon-industrial)
-- Full SEO pipeline: canonical, hreflang, JSON-LD, sitemap, monitoring
+- Full SEO pipeline: canonical, hreflang, JSON-LD, sitemap
 - Product catalog, gallery, blog with multilingual content
-- Shared backend via Ensotek monorepo
 
 🌐 **Live:** https://karbonkompozit.com.tr
 
 ---
 
 ### 🏗️ Vista İnşaat – Construction Company Platform
-Corporate website and content management system for a construction company with admin panel and project showcase.
+Corporate website for a construction company with TR/EN multilingual support, project gallery, blog, offer form, admin panel and technical SEO infrastructure.
 
-**Tech Stack:** Next.js 16 · TypeScript · Tailwind CSS v4 · Fastify · Drizzle ORM · MySQL · React Admin Panel
+**Tech Stack:** Next.js 16 · TypeScript · Tailwind CSS v4 · next-intl · Fastify · Drizzle ORM · MySQL · React Query · React Hook Form · Zustand · Radix UI
+
+**Highlights:**
+- TR/EN multilingual with next-intl
+- Project catalog with galleries, blog, offer form
+- Technical SEO (canonical, hreflang, JSON-LD, sitemap)
+- Token-based gold/champagne theme system
 
 🌐 **Live:** https://www.vistainsaat.com
 
 ---
 
 ### 💼 Konig Massage – Multi-Language Booking Platform
-Full-stack massage & wellness booking platform with customer site, admin panel, 3-language support and complete reservation system.
+Full-stack massage & wellness booking platform with customer site, online booking calendar, admin panel and 3-language support.
 
-**Tech Stack:** Next.js · React · TypeScript · Tailwind CSS · Fastify · Drizzle ORM · MySQL · Bun · Zod · Cloudinary · Nodemailer · JWT · React Query · Zustand
+**Tech Stack:** Next.js · React · TypeScript · Tailwind CSS v4 · Fastify · Drizzle ORM · MySQL · Bun · Zod · Cloudinary · Nodemailer · JWT · React Query · Zustand
 
 🌐 **Live:** https://energetische-massage-bonn.de
 
@@ -106,9 +149,10 @@ Enterprise Resource Planning system for manufacturing operations with shift mana
 | Project | Category | Tech Highlights | Live |
 |---------|----------|-----------------|------|
 | **Kamanilan** | Real Estate Platform | Next.js · Fastify · MySQL · Iyzipay · Framer Motion · i18n | [kamanilan.com](https://www.kamanilan.com) |
-| **Kaman Social** | Social Platform | Fastify · Drizzle ORM · MySQL · node-cron · Next.js monorepo | — |
 | **GZL Temizlik** | Service Platform | Next.js · Redux Toolkit · Fastify · MySQL · Cloudinary | [gzltemizlik.com](https://gzltemizlik.com) |
-| **PaketJet** | Logistics Platform | Next.js · Fastify · MySQL · Drizzle ORM | [paketjet.com](https://paketjet.com) |
+| **Kaman Social** | Social Media Management | Fastify · Drizzle ORM · MySQL · node-cron · Next.js monorepo | — |
+| **GeoSerra** | GEO SEO SaaS | Next.js 16 · Fastify · MySQL · Stripe · PayPal · Python · AI analysis | [geoserra.com](https://geoserra.com) |
+| **Shopo** | Multi-vendor Marketplace | Laravel 10 · Next.js 15 · Iyzico sub-merchant · OpenAI · Pusher | In development |
 
 ---
 
@@ -197,9 +241,6 @@ Enterprise Resource Planning system for manufacturing operations with shift mana
   <a href="https://vercel.com/" target="_blank" rel="noreferrer" title="Vercel">
     <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="36" height="36" alt="Vercel" />
   </a>
-  <a href="https://render.com/" target="_blank" rel="noreferrer" title="Render">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" />
-  </a>
   <a href="https://nginx.org/" target="_blank" rel="noreferrer" title="Nginx">
     <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="36" height="36" alt="Nginx" />
   </a>
@@ -209,7 +250,7 @@ Enterprise Resource Planning system for manufacturing operations with shift mana
 
 **Frontend Architecture**
 - Redux Toolkit · React Query (TanStack) · Zustand — advanced state management
-- Shadcn UI · Radix UI · Tailwind CSS · Framer Motion — modern UI systems
+- Shadcn UI · Radix UI · Tailwind CSS v4 · Framer Motion — modern UI systems
 - React Hook Form · Zod — type-safe form validation
 - next-intl · i18n — multi-language SSR/SSG
 
@@ -217,13 +258,19 @@ Enterprise Resource Planning system for manufacturing operations with shift mana
 - Fastify · Laravel · Express.js — REST API design
 - Drizzle ORM · Eloquent · Mongoose — ORM/ODM layers
 - JWT · bcrypt · Google OAuth — secure authentication
-- Store and seller workflows · API versioning · Swagger docs
+- BullMQ · Redis · node-cron — job queues & scheduling
+- Swagger docs · API versioning
 
 **DevOps & Deployment**
 - Docker · Nginx · PM2 — containerization & process management
 - GitHub Actions — CI/CD pipelines
-- Vercel · Render — frontend/backend hosting
-- VPS management · reverse proxy configuration
+- VPS management · reverse proxy configuration · SSL (Let's Encrypt)
+
+**AI & Integrations**
+- Groq LLM · OpenAI — AI content generation & decision support
+- Cloudinary — media management
+- Stripe · Iyzipay · PayPal — payment integrations
+- Telegram Bot API · Nodemailer — notification systems
 
 ---
 
