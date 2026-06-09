@@ -7,9 +7,9 @@ I'm **Orhan Güzel** — a Full-Stack Developer building production-ready **plat
 - 🛠 Passionate about clean architecture, scalable backends, advanced state management and modern UI
 - 🇩🇪 Based in **Grevenbroich, Germany** — open to **Remote / Hybrid** roles
 
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Full--Stack%20%7C%20Next.js%20%7C%20Fastify%20%7C%20Laravel-brightgreen?style=flat-square)](#)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Full--Stack%20%7C%20Next.js%20%7C%20Fastify%20%7C%20Laravel-brightgreen?style=flat-square)](https://www.linkedin.com/in/orhan-g%C3%BCzel-53b47b11a)
 [![Portfolio](https://img.shields.io/badge/Portfolio-guezelwebdesign.com-1f6feb?style=flat-square)](https://guezelwebdesign.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Orhan%20G%C3%BCzel-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orhan-güzel-53b47b11a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Orhan%20G%C3%BCzel-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orhan-g%C3%BCzel-53b47b11a)
 [![GitHub](https://img.shields.io/badge/GitHub-Orhanguezel-181717?style=flat-square&logo=github)](https://github.com/Orhanguezel)
 [![Email](https://img.shields.io/badge/Email-orhanguzell%40gmail.com-dd4b39?style=flat-square)](mailto:orhanguzell@gmail.com)
 
@@ -128,15 +128,6 @@ Corporate website for a construction company with TR/EN multilingual support, pr
 
 ---
 
-### 💼 Konig Massage – Multi-Language Booking Platform
-Full-stack massage & wellness booking platform with customer site, online booking calendar, admin panel and 3-language support.
-
-**Tech Stack:** Next.js · React · TypeScript · Tailwind CSS v4 · Fastify · Drizzle ORM · MySQL · Bun · Zod · Cloudinary · Nodemailer · JWT · React Query · Zustand
-
-🌐 **Live:** https://energetische-massage-bonn.de
-
----
-
 ### ⚙️ Paspas ERP – Production Planning System
 Enterprise Resource Planning system for manufacturing operations with shift management, machine planning and reporting dashboard.
 
@@ -232,7 +223,7 @@ Enterprise Resource Planning system for manufacturing operations with shift mana
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=orhanguezel&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=orhanguezel&theme=dark)](https://git.io/streak-stats)
 
 ---
 
@@ -249,7 +240,7 @@ Enterprise Resource Planning system for manufacturing operations with shift mana
 ## 🌐 Socials
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Orhanguezel)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orhan-güzel-53b47b11a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orhan-g%C3%BCzel-53b47b11a)
 [![Portfolio](https://img.shields.io/badge/Portfolio-guezelwebdesign.com-1f6feb?style=flat-square)](https://guezelwebdesign.com/)
 
 ---

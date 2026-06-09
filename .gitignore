@@ -2,6 +2,15 @@
 career/
 otobiografi/
 
+# İç / operasyonel dosyalar — public profil reposuna gitmez
+.claude/
+AGENTS.md
+CLAUDE.md
+*.local.md
+NOTES.local.md
+GITHUB-PROFESYONELLIK-STRATEJI.md
+CODEX-GOREVLERI.md
+
 # OS files
 .DS_Store
 Thumbs.db
