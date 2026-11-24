@@ -1,248 +1,40 @@
-# Hi there! 👋
+# Orhan Güzel
 
-I'm **Orhan Güzel** — a Full-Stack Developer building production-ready **platforms**, **E-Commerce systems** and **digital ecosystems** for agriculture & industry.
+**Full-stack developer focused on ERP, CRM, business operations, AI assistants and robotics.**
 
-- 🌱 **Current focus:** Building Turkey's most comprehensive **Agricultural Digital Ecosystem** — from seed catalog to AI-powered farming tools
-- 🏢 **Main projects:** **Tarım Dijital Ekosistem** (25+ AgriTech modules) · **QuickEcommerce** (enterprise e-commerce) · **Ensotek** (B2B platform, live at ensotek.de)
-- 🛠 Passionate about clean architecture, scalable backends, advanced state management and modern UI
-- 🇩🇪 Based in **Grevenbroich, Germany** — open to **Remote / Hybrid** roles
+I build business software through GZL Teknoloji, from production planning and sales pipelines to AI-assisted marketing and search visibility. I'm also developing MakerOrbit, a hands-on workshop for open-source robotics projects.
 
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Full--Stack%20%7C%20Next.js%20%7C%20Fastify%20%7C%20Laravel-brightgreen?style=flat-square)](https://www.linkedin.com/in/orhan-g%C3%BCzel-53b47b11a)
-[![Portfolio](https://img.shields.io/badge/Portfolio-guezelwebdesign.com-1f6feb?style=flat-square)](https://guezelwebdesign.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Orhan%20G%C3%BCzel-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orhan-g%C3%BCzel-53b47b11a)
-[![GitHub](https://img.shields.io/badge/GitHub-Orhanguezel-181717?style=flat-square&logo=github)](https://github.com/Orhanguezel)
-[![Email](https://img.shields.io/badge/Email-orhanguzell%40gmail.com-dd4b39?style=flat-square)](mailto:orhanguzell@gmail.com)
+[GZL Teknoloji](https://gzlteknoloji.com/tr) · [Project portfolio](https://gzlteknoloji.com/tr/portfolyo) · [MakerOrbit](https://makerorbit.cloud/tr) · [LinkedIn](https://www.linkedin.com/in/orhan-g%C3%BCzel-53b47b11a)
 
----
+## What I build
 
-## 🌱 Tarım Dijital Ekosistem — AgriTech Platform Suite
+| Area | Capabilities |
+| --- | --- |
+| **ERP & business operations** | Production planning, inventory, orders, HR, role-based access and audit trails |
+| **CRM & sales operations** | Customer and opportunity tracking, quotes and revisions, order handoffs and ERP integration |
+| **AI assistants & automation** | Workflow-specific assistants for drafting and analysis, human approval steps and API integrations |
+| **Social media & marketing** | Multi-brand content calendars, AI-assisted content, approval workflows, scheduling and reporting |
+| **Technical SEO & AI search (GEO)** | Crawlability, structured data, content audits and visibility in search engines and AI-generated answers |
+| **Robotics & embedded systems** | Hands-on work with ESP32, servos, 3D-printed mechanisms and robot simulation |
 
-A 5-layer digital ecosystem transforming Turkey's agricultural sector — from content & visibility to AI-powered decision support.
+## Selected projects
 
-**Architecture:** Monorepo with shared backend packages, SaaS-ready multi-tenant structure
+| Project | What it does |
+| --- | --- |
+| **MakerOrbit** | Live robotics workshop with guides for sourcing parts, 3D printing, assembly and software. Projects include the SO-101 robot arm, H-0996 hexapod and SpotMicro ESP32. [Open the workshop](https://makerorbit.cloud/tr) |
+| **Paspas ERP** | Brings inventory, orders and production planning into one system for a manufacturer. [Case study](https://gzlteknoloji.com/tr/portfolyo/paspas-erp-uretim-ve-operasyon-yonetim-sistemi) · [GitHub repository](https://github.com/Orhanguezel/paspas) |
+| **TeklifRota** | Export operations SaaS for quotes, pro forma invoices, packing lists, freight and shipment approvals. [Product](https://teklifrota.com/) · [Case study](https://gzlteknoloji.com/tr/portfolyo/teklifrota-ihracat-teklif-ve-lojistik-saas) |
+| **İhracat Radarı** | Trade intelligence and export CRM for researching markets and finding potential buyers. [Case study](https://gzlteknoloji.com/tr/portfolyo/ihracat-radari-dis-ticaret-istihbarati-saas) |
+| **Aktif OSGB** | Business management software for occupational health and safety teams, covering client records, field visits, documents, quotes and finance. [Case study](https://gzlteknoloji.com/tr/portfolyo/aktif-osgb-yonetim-platformu) |
+| **Tanitio** | AI-assisted marketing platform for content creation, social scheduling, team approvals and performance measurement. [Product](https://gzlteknoloji.com/tr/urunler/tanitio) |
+| **GeoSerra** | Analyzes how websites appear in AI search and turns technical and content findings into a prioritized action plan. [Case study](https://gzlteknoloji.com/tr/portfolyo/geoserra-yapay-zeka-aramalari-icin-geo-seo-platformu) |
 
-**Tech Stack:** Next.js 16 · TypeScript · Fastify · Drizzle ORM · MySQL · Bun · Tailwind CSS v4 · React Query · Zustand · Groq/OpenAI · Redis · BullMQ · Docker · Nginx
+I also build [e-commerce platforms](https://github.com/Orhanguezel/quickecommerce), [logistics marketplaces](https://github.com/Orhanguezel/paketjet) and [multilingual B2B platforms](https://github.com/Orhanguezel/Ensotek).
 
-### Live & Active
+**Tools I work with** · TypeScript, React, Next.js, Node.js, Fastify, Laravel, MySQL, Drizzle ORM, Docker and Nginx.
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| **Bereket Fide** | Corporate seedling hub — product catalog, multilingual, admin panel | 🟢 Live — [bereketfide.com.tr](https://www.bereketfide.com.tr) |
-| **VistaSeeds** | Seed brand corporate platform — product catalog, admin, SEO | 🟢 Live — [vistaseeds.com.tr](https://vistaseeds.com.tr) |
-| **Tarımda Bugün** | Agriculture news platform — RSS aggregation, newsletter, Telegram | 🟢 Live — [tarimdabugun.com](https://tarimdabugun.com) |
-| **Tarım Ansiklopedisi** | Digital agricultural encyclopedia — 100K+ SEO traffic target | 🟢 Live — [tarimansiklopedisi.com](https://tarimansiklopedisi.com) |
-| **Hal Fiyatlari** | Daily market (hal) price platform — trend analysis, REST API | 🟢 Live — [haldefiyat.com](https://haldefiyat.com) |
-| **Ekosistem Sosyal Medya** | Centralized social media manager — AI content, multi-platform scheduling | 🟢 Live — [sosial.tarvista.com](https://sosial.tarvista.com) |
-| **TarMinGO** | Agri quiz platform — 1669 questions, 14 subjects (Akdeniz Univ.) | 🟢 Live — [tarmingo.com](https://tarmingo.com) |
-| **KatalogAI** | AI-powered multi-database catalog creator — PDF export, email delivery | 🟢 Live — [thecatalogia.com](https://thecatalogia.com) |
+## Türkçe
 
-### In Development / Planned
+GZL Teknoloji’de üretim, stok ve sipariş yönetimi için ERP, satış ve müşteri takibi için CRM, iş akışlarına özel yapay zekâ asistanları geliştiriyorum. Tanitio ile sosyal medya operasyonları, GeoSerra ile teknik SEO ve yapay zekâ aramalarında görünürlük üzerine çalışıyorum. Canlı MakerOrbit atölyesinde açık kaynak robotik projelerini parça seçimi, 3D baskı, montaj, yazılım ve desteklenen projelerde simülasyon adımlarıyla bir araya getiriyorum.
 
-| Project | Description |
-|---------|-------------|
-| **Sera Yönetim Yazılımı** | Greenhouse SaaS — planting, harvest, irrigation, IoT integration |
-| **TarimIklim** | Climate & frost risk service — REST API for ecosystem modules |
-| **ZiraiBilgim** | Gamified agriculture education — courses, quiz, certificates, Iyzipay |
-| **Çiftçi Forumu** | Agricultural Q&A community forum |
-| **B2B Tohum/Fide Pazaryeri** | B2B seed and seedling marketplace |
-| **Danışmanlık Pazaryeri** | Agricultural expert consultation platform |
-| **Toplu Alım Platformu** | Group purchase platform for cooperatives |
-| **Verim Tahmini Motoru** | AI yield prediction & decision support |
-| **Hastalık Erken Uyarı** | AI plant disease detection & regional risk alerts |
-| **IoT Sensor Entegrasyonu** | Sensor data collection, threshold alarms, Telegram notifications |
-| **Stok ve Depo Yönetimi** | Warehouse & inventory management module |
-| **Maliyet ve Karlılık Analizi** | Financial P&L reporting module |
-| **Devlet Destekleri Takibi** | Agricultural grant & support program tracker |
-
----
-
-## 🚀 Featured Projects
-
-### ⭐ QuickEcommerce – Enterprise E-Commerce Platform
-Full-stack e-commerce solution with Laravel backend, dedicated admin panel, customer web, Flutter mobile app and marketplace-style store workflows.
-
-**Tech Stack:** Laravel 12 · PHP 8.2 · Next.js 16 · React 19 · TypeScript · Flutter · MySQL · Redux Toolkit · React Query · Zustand · Shadcn UI · Tailwind CSS · JWT · i18n
-
-**Highlights:**
-- Store and seller management across shared commerce flows
-- Admin panel + customer web + Flutter mobile (iOS/Android)
-- Token refresh mechanism & secure JWT authentication
-- Multi-language support (TR/EN)
-- Stripe & Iyzipay payment integration
-
-🌐 **Live:** https://sportoonline.com
-
----
-
-### 🏢 Ensotek – B2B Platform for Cooling Tower Solutions
-B2B platform with multilingual frontend variants, shared packages, catalog management, customer document flows and Fastify backend.
-
-**Tech Stack:** Next.js · TypeScript · Fastify · Drizzle ORM · MySQL · Bun · Zod · Cloudinary · Tailwind CSS · Radix UI · Swagger · i18n (TR/EN/DE) · Docker · Nginx · CI/CD
-
-🌐 **Live:** https://www.ensotek.de
-
----
-
-### 🚚 PaketJet – P2P Cargo Freight Marketplace
-BlaBlaCar-style freight logistics marketplace. Carriers post route & capacity listings, customers book cargo space. Built from zero to production in **2 weeks**.
-
-**Tech Stack:** Next.js 15 · React 19 · TypeScript · Fastify v5 · MySQL 8 · Drizzle ORM · Bun · Zod · Zustand · Tailwind CSS v4
-
-**Highlights:**
-- Carrier & customer dual dashboards
-- Real-time capacity management with visual capacity bar
-- Wallet & payment system with admin revenue stats
-- JWT cookie auth with role guards
-- Token-based dark mode design system
-
-🌐 **Live:** https://paketjet.com
-
----
-
-### 🔬 Karbonkompozit – Corporate Carbon Fiber Platform
-Corporate website for MOE Kompozit brand — product catalog, gallery, blog, offer/contact system with token-based theme architecture and full technical SEO.
-
-**Tech Stack:** Next.js 16 · TypeScript · Tailwind CSS v4 · next-intl (TR/EN) · React Query · Zustand · Zod · React Hook Form · Radix UI · Embla Carousel
-
-**Highlights:**
-- Token-first theme system (moe-carbon-industrial)
-- Full SEO pipeline: canonical, hreflang, JSON-LD, sitemap
-- Product catalog, gallery, blog with multilingual content
-
-🌐 **Live:** https://karbonkompozit.com.tr
-
----
-
-### 🏗️ Vista İnşaat – Construction Company Platform
-Corporate website for a construction company with TR/EN multilingual support, project gallery, blog, offer form, admin panel and technical SEO infrastructure.
-
-**Tech Stack:** Next.js 16 · TypeScript · Tailwind CSS v4 · next-intl · Fastify · Drizzle ORM · MySQL · React Query · React Hook Form · Zustand · Radix UI
-
-**Highlights:**
-- TR/EN multilingual with next-intl
-- Project catalog with galleries, blog, offer form
-- Technical SEO (canonical, hreflang, JSON-LD, sitemap)
-- Token-based gold/champagne theme system
-
-🌐 **Live:** https://www.vistainsaat.com
-
----
-
-### ⚙️ Paspas ERP – Production Planning System
-Enterprise Resource Planning system for manufacturing operations with shift management, machine planning and reporting dashboard.
-
-**Tech Stack:** Bun · TypeScript · Fastify · Drizzle ORM · MySQL · Next.js · React · Redux Toolkit · React Query · Zod · Swagger
-
----
-
-## 🔗 Other Projects
-
-| Project | Category | Tech Highlights | Live |
-|---------|----------|-----------------|------|
-| **Kamanilan** | Real Estate Platform | Next.js · Fastify · MySQL · Iyzipay · Framer Motion · i18n | [kamanilan.com](https://www.kamanilan.com) |
-| **GZL Temizlik** | Service Platform | Next.js · Redux Toolkit · Fastify · MySQL · Cloudinary | [gzltemizlik.com](https://gzltemizlik.com) |
-| **Kaman Social** | Social Media Management | Fastify · Drizzle ORM · MySQL · node-cron · Next.js monorepo | — |
-| **GeoSerra** | GEO SEO SaaS | Next.js 16 · Fastify · MySQL · Stripe · PayPal · Python · AI analysis | [geoserra.com](https://geoserra.com) |
-| **Shopo** | Multi-vendor Marketplace | Laravel 10 · Next.js 15 · Iyzico sub-merchant · OpenAI · Pusher | [seyfibaba.com](https://seyfibaba.com) |
-
----
-
-## 🧩 Tech Stack & Skills
-
-### Languages & Runtimes
-
-<table><tr>
-<td align="center"><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a></td>
-<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a></td>
-<td align="center"><a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a></td>
-<td align="center"><a href="https://dart.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a></td>
-</tr></table>
-
-### Frontend & Mobile
-
-<table><tr>
-<td align="center"><a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" /></a></td>
-<td align="center"><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a></td>
-<td align="center"><a href="https://redux.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a></td>
-<td align="center"><a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a></td>
-<td align="center"><a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" /></a></td>
-<td align="center"><a href="https://sass-lang.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="SASS" /></a></td>
-<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a></td>
-<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a></td>
-</tr></table>
-
-### Backend & Databases
-
-<table><tr>
-<td align="center"><a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a></td>
-<td align="center"><a href="https://fastify.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/fastifyio/fastifyio-icon.svg" width="36" height="36" alt="Fastify" /></a></td>
-<td align="center"><a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a></td>
-<td align="center"><a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a></td>
-<td align="center"><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a></td>
-<td align="center"><a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a></td>
-</tr></table>
-
-### DevOps & Tools
-
-<table><tr>
-<td align="center"><a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a></td>
-<td align="center"><a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a></td>
-<td align="center"><a href="https://pm2.keymetrics.io/" target="_blank"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/pm2-icon.svg" width="36" height="36" alt="PM2" /></a></td>
-<td align="center"><a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36" height="36" alt="Postman" /></a></td>
-<td align="center"><a href="https://vercel.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="36" height="36" alt="Vercel" /></a></td>
-<td align="center"><a href="https://nginx.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="36" height="36" alt="Nginx" /></a></td>
-</tr></table>
-
-### Core Competencies
-
-**Frontend Architecture**
-- Redux Toolkit · React Query (TanStack) · Zustand — advanced state management
-- Shadcn UI · Radix UI · Tailwind CSS v4 · Framer Motion — modern UI systems
-- React Hook Form · Zod — type-safe form validation
-- next-intl · i18n — multi-language SSR/SSG
-
-**Backend & API**
-- Fastify · Laravel · Express.js — REST API design
-- Drizzle ORM · Eloquent · Mongoose — ORM/ODM layers
-- JWT · bcrypt · Google OAuth — secure authentication
-- BullMQ · Redis · node-cron — job queues & scheduling
-- Swagger docs · API versioning
-
-**DevOps & Deployment**
-- Docker · Nginx · PM2 — containerization & process management
-- GitHub Actions — CI/CD pipelines
-- VPS management · reverse proxy configuration · SSL (Let's Encrypt)
-
-**AI & Integrations**
-- Groq LLM · OpenAI — AI content generation & decision support
-- Cloudinary — media management
-- Stripe · Iyzipay · PayPal — payment integrations
-- Telegram Bot API · Nodemailer — notification systems
-
----
-
-## 📈 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=orhanguezel&theme=dark)](https://git.io/streak-stats)
-
----
-
-## 🧾 Profile Summary
-
-**Profile Summary Card**
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=orhanguezel&theme=github_dark)
-
-**Activity Graph**
-[![Orhan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=orhanguezel&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🌐 Socials
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Orhanguezel)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orhan-g%C3%BCzel-53b47b11a)
-[![Portfolio](https://img.shields.io/badge/Portfolio-guezelwebdesign.com-1f6feb?style=flat-square)](https://guezelwebdesign.com/)
-
----
-
-🌟 Let's build something great together!
+[Tüm projeler](https://gzlteknoloji.com/tr/portfolyo) · [Ürünler](https://gzlteknoloji.com/tr/urunler) · [İletişim](https://gzlteknoloji.com/tr/iletisim)
