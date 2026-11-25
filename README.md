@@ -1,10 +1,10 @@
 # Orhan Güzel
 
-**Full-stack developer focused on ERP, CRM, business operations, AI assistants and robotics.**
+**Full-stack developer | TypeScript, React, Next.js, REST APIs, Fastify and MySQL | ERP, CRM and B2B platforms.**
 
-I build business software through GZL Teknoloji, from production planning and sales pipelines to AI-assisted marketing and search visibility. I'm also developing MakerOrbit, a hands-on workshop for open-source robotics projects.
+I've worked as a freelance full-stack developer in Germany since January 2020, building and operating business applications for commerce, manufacturing and services. My industrial engineering background includes production planning, process improvement and quality control.
 
-[GZL Teknoloji](https://gzlteknoloji.com/tr) · [Project portfolio](https://gzlteknoloji.com/tr/portfolyo) · [MakerOrbit](https://makerorbit.cloud/tr) · [LinkedIn](https://www.linkedin.com/in/orhan-g%C3%BCzel-53b47b11a)
+[German portfolio](https://www.guezelwebdesign.com/de) · [GZL Teknoloji](https://gzlteknoloji.com/tr) · [LinkedIn](https://www.linkedin.com/in/orhan-g%C3%BCzel-53b47b11a)
 
 ## What I build
 
@@ -22,20 +22,25 @@ I build business software through GZL Teknoloji, from production planning and sa
 | Project | What it does |
 | --- | --- |
 | **MakerOrbit** | Live robotics workshop with guides for sourcing parts, 3D printing, assembly and software. Projects include the SO-101 robot arm, H-0996 hexapod and SpotMicro ESP32. [Open the workshop](https://makerorbit.cloud/tr) |
-| **Compressor Service Parts** | An industrial B2B catalogue with over 1.2 million part-number records, fast indexed search, bulk lookup and requests for quote. Part pages that pass quality checks are listed in the sitemap for Google. [Live site](https://compressorserviceparts.com/en) · [Case study](https://www.guezelwebdesign.com/en/work/compressor-service-parts) |
+| **Compressor Service Parts** | B2B catalogue for industrial compressor parts with 1,201,120 part-number records, indexed single and bulk search and requests for quote. Eligible pages are published in the sitemap. [Live site](https://compressorserviceparts.com/en) · [Case study](https://www.guezelwebdesign.com/de/projekte/compressor-service-parts) |
 | **Paspas ERP** | Brings inventory, orders and production planning into one system for a manufacturer. [Case study](https://gzlteknoloji.com/tr/portfolyo/paspas-erp-uretim-ve-operasyon-yonetim-sistemi) · [GitHub repository](https://github.com/Orhanguezel/paspas) |
-| **TeklifRota** | Export operations SaaS for quotes, pro forma invoices, packing lists, freight and shipment approvals. [Product](https://teklifrota.com/) · [Case study](https://gzlteknoloji.com/tr/portfolyo/teklifrota-ihracat-teklif-ve-lojistik-saas) |
-| **İhracat Radarı** | Trade intelligence and export CRM for researching markets and finding potential buyers. [Case study](https://gzlteknoloji.com/tr/portfolyo/ihracat-radari-dis-ticaret-istihbarati-saas) |
+| **TeklifRota** | Export platform connecting buyer search, quotes, trade documents, freight and shipment approvals. [Live site](https://teklifrota.com/) · [Case study](https://www.guezelwebdesign.com/de/projekte/teklifrota-ihracat-teklif-ve-lojistik-saas) |
+| **HepsiHal** | Agricultural wholesale data from Turkey, with source validation, data pipelines and price comparisons. [Live site](https://hepsihal.com/) |
 | **Aktif OSGB** | Business management software for occupational health and safety teams, covering client records, field visits, documents, quotes and finance. [Case study](https://gzlteknoloji.com/tr/portfolyo/aktif-osgb-yonetim-platformu) |
-| **Tanitio** | AI-assisted marketing platform for content creation, social scheduling, team approvals and performance measurement. [Product](https://gzlteknoloji.com/tr/urunler/tanitio) |
-| **GeoSerra** | Analyzes how websites appear in AI search and turns technical and content findings into a prioritized action plan. [Case study](https://gzlteknoloji.com/tr/portfolyo/geoserra-yapay-zeka-aramalari-icin-geo-seo-platformu) |
+| **Tanitio** | Multi-tenant marketing platform for content planning, approvals, social publishing and reporting, including a client integration with an e-commerce GraphQL API. [Product](https://gzlteknoloji.com/tr/urunler/tanitio) |
 
 I also build [e-commerce platforms](https://github.com/Orhanguezel/quickecommerce), [logistics marketplaces](https://github.com/Orhanguezel/paketjet) and [multilingual B2B platforms](https://github.com/Orhanguezel/Ensotek).
 
 **Tools I work with** · TypeScript, React, Next.js, Node.js, Fastify, Laravel, MySQL, Drizzle ORM, Docker and Nginx.
 
+## Deutsch
+
+Seit Januar 2020 entwickle und betreibe ich freiberuflich ERP- und CRM-Systeme, B2B-Kataloge und Datenplattformen. Mein Schwerpunkt liegt auf TypeScript, React, Next.js, REST-APIs, Fastify und MySQL. Mein Hintergrund im Wirtschaftsingenieurwesen umfasst Produktionsplanung, Prozessverbesserung und Qualitätskontrolle.
+
+[Portfolio und Fallstudien](https://www.guezelwebdesign.com/de) · [LinkedIn](https://www.linkedin.com/in/orhan-g%C3%BCzel-53b47b11a)
+
 ## Türkçe
 
-GZL Teknoloji’de üretim, stok ve sipariş yönetimi için ERP, satış ve müşteri takibi için CRM, iş akışlarına özel yapay zekâ asistanları geliştiriyorum. Tanitio ile sosyal medya operasyonları, GeoSerra ile teknik SEO ve yapay zekâ aramalarında görünürlük üzerine çalışıyorum. Canlı MakerOrbit atölyesinde açık kaynak robotik projelerini parça seçimi, 3D baskı, montaj, yazılım ve desteklenen projelerde simülasyon adımlarıyla bir araya getiriyorum.
+Ocak 2020’den beri serbest olarak ERP, CRM, B2B katalog ve veri platformları geliştiriyorum. Öncelikli teknoloji yığınım TypeScript, React, Next.js, REST API, Fastify ve MySQL. İş deneyimimde üretim planlama ve kalite kontrol de yer alıyor.
 
-[Tüm projeler](https://gzlteknoloji.com/tr/portfolyo) · [Ürünler](https://gzlteknoloji.com/tr/urunler) · [İletişim](https://gzlteknoloji.com/tr/iletisim)
+[Tüm projeler](https://gzlteknoloji.com/tr/portfolyo) · [Ürünler](https://gzlteknoloji.com/tr/urunler)
