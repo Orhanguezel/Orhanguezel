@@ -22,6 +22,7 @@ I build business software through GZL Teknoloji, from production planning and sa
 | Project | What it does |
 | --- | --- |
 | **MakerOrbit** | Live robotics workshop with guides for sourcing parts, 3D printing, assembly and software. Projects include the SO-101 robot arm, H-0996 hexapod and SpotMicro ESP32. [Open the workshop](https://makerorbit.cloud/tr) |
+| **Compressor Service Parts** | B2B catalogue for industrial compressor spare parts, with part-number search, bulk lookup and requests for quote. [Live site](https://compressorserviceparts.com/en) · [Case study](https://www.guezelwebdesign.com/en/work/compressor-service-parts) |
 | **Paspas ERP** | Brings inventory, orders and production planning into one system for a manufacturer. [Case study](https://gzlteknoloji.com/tr/portfolyo/paspas-erp-uretim-ve-operasyon-yonetim-sistemi) · [GitHub repository](https://github.com/Orhanguezel/paspas) |
 | **TeklifRota** | Export operations SaaS for quotes, pro forma invoices, packing lists, freight and shipment approvals. [Product](https://teklifrota.com/) · [Case study](https://gzlteknoloji.com/tr/portfolyo/teklifrota-ihracat-teklif-ve-lojistik-saas) |
 | **İhracat Radarı** | Trade intelligence and export CRM for researching markets and finding potential buyers. [Case study](https://gzlteknoloji.com/tr/portfolyo/ihracat-radari-dis-ticaret-istihbarati-saas) |
